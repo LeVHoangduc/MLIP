@@ -1,3 +1,15 @@
+1
+Properties=species:S:1:pos:R:3:forces_gfn1:R:3 config_type=IsolatedAtom energy_gfn1=-106.17672325974458 pbc="F F F"
+Au       0.00000000       0.00000000       0.00000000      -0.00000000      -0.00000000      -0.00000000
+1
+Properties=species:S:1:pos:R:3:forces_gfn1:R:3 config_type=IsolatedAtom energy_gfn1=-96.2173043582818 pbc="F F F"
+S        0.00000000       0.00000000       0.00000000      -0.00000000      -0.00000000      -0.00000000
+1
+Properties=species:S:1:pos:R:3:forces_gfn1:R:3 config_type=IsolatedAtom energy_gfn1=-47.378722673285495 pbc="F F F"
+C        0.00000000       0.00000000       0.00000000      -0.00000000      -0.00000000      -0.00000000
+1
+Properties=species:S:1:pos:R:3:forces_gfn1:R:3 config_type=IsolatedAtom energy_gfn1=-10.92345239113973 pbc="F F F"
+H        0.00000000       0.00000000       0.00000000      -0.00000000      -0.00000000      -0.00000000
 158
 Properties=species:S:1:pos:R:3:forces_gfn1:R:3 energy_gfn1=-8975.574285106442 pbc="F F F"
 C       15.37079380      13.28296945       6.82761637      -2.76170259       0.76651711       2.05253943
